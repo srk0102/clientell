@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-###`npm run create`
+### `npm run create`
+
 You can create a react functional component using this command.
 This will create folder according to your input name.
 This will create [folder(name)] ->  -> .js with react function code in it and .css that already imported into .js file.
